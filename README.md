@@ -33,7 +33,7 @@ $ source myenv/bin/activate
 
 $ pip install requests colorama
 
-$ gitclone https://github.com/sherangexcrew/env-scanner
+$ git clone https://github.com/sherangexcrew/env-scanner
 
 $ cd env-scanner
 
